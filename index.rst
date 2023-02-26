@@ -12,9 +12,11 @@ Can't access The Pirate Bay? Try one of the proxy sites below. A proxy site allo
 
 Unblock The Pirate Bay with one of these proxy sites.
 
-1. https://mirrorbay.org
-2. https://piratebay.pro
-3. https://tpb-proxies.curd.io
+1. <https://mirrorbay.org>
+2. <https://piratebay.pro>
+3. <https://tpb-proxies.curd.io>
+4. <https://clonehub.org/thepiratebay.org/>
+5. <https://tpb.curd.io>
 
 
 *********
