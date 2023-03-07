@@ -16,7 +16,7 @@ Unblock The Pirate Bay with one of these proxy sites.
 4. <https://clonehub.org/thepiratebay.org/>
 5. <https://tpb.curd.io>
 6. <https://tpb.latestcache.com>
-7. <https://tpb.latestcache.com>
+7. <https://tpb.clonehub.org>
 8. <https://thepiratebayproxy.github.io>
 
 
