@@ -14,10 +14,10 @@ Unblock The Pirate Bay with one of these proxy sites.
 2. <https://t-pb.org>
 3. <https://piratebay.pro>
 4. <https://tpb-proxies.curd.io>
-5. <https://clonehub.org/thepiratebay.org/>
+5. <https://thepiratebay.isworking.xyz>
 6. <https://tpb.curd.io>
-7. <https://tpb.latestcache.com>
-8. <https://tpb.clonehub.org>
+7. <https://thepiratebay.isworking.online>
+8. <https://thepiratebay.isworking.site>
 9. <https://thepiratebayproxy.github.io>
 
 *********
