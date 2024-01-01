@@ -21,7 +21,7 @@ Unblock The Pirate Bay with one of these proxy sites.
 9. <https://thepiratebayproxy.github.io>
 
 *********
-For Better Torrent Experience Visit <https://t-rb.org> or <https://therarbg.com>
+For Better Torrent Experience Visit <https://t-rb.org> or <https://therarbg.to>
 *********
 
 ## Countries blocking access to The Pirate Bay
