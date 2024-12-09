@@ -11,17 +11,17 @@ Can't access The Pirate Bay? Try one of the proxy sites below. A proxy site allo
 Unblock The Pirate Bay with one of these proxy sites.
 
 1. <https://mirrorbay.org>
-2. <https://t-pb.org>
+2. <https://piratebay.baby>
 3. <https://piratebay.pro>
 4. <https://tpb-proxies.curd.io>
-5. <https://thepiratebay.isworking.xyz>
+5. <https://thepiratebay.isonline.click>
 6. <https://tpb.curd.io>
-7. <https://thepiratebay.isworking.online>
-8. <https://thepiratebay.isworking.site>
+7. <https://thepiratebay.isonline.club>
+8. <https://thepiratebay.isonline.cfd>
 9. <https://thepiratebayproxy.github.io>
 
 *********
-For Better Torrent Experience Visit <https://t-rb.org> or <https://therarbg.to>
+For Better Torrent Experience Visit <https://therarbg.com> or <https://therarbg.to>
 *********
 
 ## Countries blocking access to The Pirate Bay
